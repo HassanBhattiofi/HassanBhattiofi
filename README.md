@@ -8,7 +8,9 @@ I'm Hassan Bhatti, a software developer with 5 years of experience in software d
 
 🌐 JavaScript: Alongside TypeScript, I have extensive experience in JavaScript, the language that powers the modern web. I use JavaScript to create dynamic and interactive user interfaces, enhance the functionality of web applications, and develop server-side applications using Node.js. ☕ BootSpring for Java: I am proficient in using Spring Boot, a powerful framework for building Java-based web applications. Spring Boot provides a robust foundation for creating scalable and efficient applications, and I utilize its features to develop secure and high-performance Java applications. 
 
-🐍 Python: I have experience working with Python, a versatile and widely used programming language. I am familiar with Python's syntax, libraries, and frameworks, and I have utilized it for various projects, including web development, data analysis, and automation. ⚡ FastAPI: I am skilled in FastAPI, a modern, high-performance web framework for building APIs with Python. FastAPI leverages the capabilities of Python's type hints and asynchronous programming to create efficient and well-documented APIs, making it a preferred choice for developing scalable backend services. 
+🐍 Python: I have experience working with Python, a versatile and widely used programming language. I am familiar with Python's syntax, libraries, and frameworks, and I have utilized it for various projects, including web development, data analysis, and automation. 
+
+⚡ FastAPI: I am skilled in FastAPI, a modern, high-performance web framework for building APIs with Python. FastAPI leverages the capabilities of Python's type hints and asynchronous programming to create efficient and well-documented APIs, making it a preferred choice for developing scalable backend services. 
 
 🌿 Flask: I am also proficient in Flask, a lightweight and flexible web framework for Python. Flask enables rapid development and offers great flexibility, making it suitable for building small to medium-sized web applications and APIs. 
 
