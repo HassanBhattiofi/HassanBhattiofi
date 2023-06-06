@@ -4,9 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Transforming ideas into seamless digital experiences.
 -----------------------------------------------------
 
-I'm Hassan Bhatti, a software developer with 5 years of experience in software development. I specialize in building robust and scalable applications using a wide range of technologies and frameworks. Here are some additional skills I possess: 💻 TypeScript: I am well-versed in TypeScript, a superset of JavaScript that brings static typing and improved tooling to the JavaScript ecosystem. I leverage TypeScript to write more reliable and maintainable code, especially when working with large-scale projects. 
+I'm Hassan Bhatti, a software developer with 5 years of experience in software development. I specialize in building robust and scalable applications using a wide range of technologies and frameworks. Here are some additional skills I possess: 
 
-🌐 JavaScript: Alongside TypeScript, I have extensive experience in JavaScript, the language that powers the modern web. I use JavaScript to create dynamic and interactive user interfaces, enhance the functionality of web applications, and develop server-side applications using Node.js. ☕ BootSpring for Java: I am proficient in using Spring Boot, a powerful framework for building Java-based web applications. Spring Boot provides a robust foundation for creating scalable and efficient applications, and I utilize its features to develop secure and high-performance Java applications. 
+💻 TypeScript: I am well-versed in TypeScript, a superset of JavaScript that brings static typing and improved tooling to the JavaScript ecosystem. I leverage TypeScript to write more reliable and maintainable code, especially when working with large-scale projects. 
+
+🌐 JavaScript: Alongside TypeScript, I have extensive experience in JavaScript, the language that powers the modern web. I use JavaScript to create dynamic and interactive user interfaces, enhance the functionality of web applications, and develop server-side applications using Node.js. 
+
+☕ BootSpring for Java: I am proficient in using Spring Boot, a powerful framework for building Java-based web applications. Spring Boot provides a robust foundation for creating scalable and efficient applications, and I utilize its features to develop secure and high-performance Java applications. 
 
 🐍 Python: I have experience working with Python, a versatile and widely used programming language. I am familiar with Python's syntax, libraries, and frameworks, and I have utilized it for various projects, including web development, data analysis, and automation. 
 
